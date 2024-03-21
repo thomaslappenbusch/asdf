@@ -181,7 +181,8 @@
   <h1 class="flex text-left text-3xl font-bold pb-3 pt-16">
     Unparalleled Community
   </h1>
-  <h4 class="text-left text-xl pb-3 mx-auto">Building an impressive paid educational product is difficult (to impossible) when managing full time content creation. Our in house team creates industry leading content, projects, and more for your paid product.</h4>
+  <h4 class="text-left text-xl pb-3 mx-auto">The Vauren Institute has a community that fosters growth in all facets of life.
+  </h4>
   <h4 class="text-left text-xl pb-3 mx-auto"><b>Members Include Backgrounds From</b>: Harvard, Cornell, Yale, Citadel, Tower Research, Jane Street, YCombinator Founders, and more...</h4>
 </div>
 
@@ -192,7 +193,6 @@
     Group Coaching
   </h1>
   <h4 class="text-left text-xl mx-auto">Members work in small groups for accountability, in their careers, startups, fitness, and other categories. </h4>
-  <h4 class="text-left text-xl pb-3 mx-auto"><b>Members From</b>: Harvard, Cornell, Yale, Citadel, Tower Research, Jane Street and thats just the start</h4>
 </div>
 
 <div class="divider max-w-lg mx-auto py-8"></div>
